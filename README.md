@@ -22,6 +22,8 @@ Open to Architect / Lead / Senior BI Manager roles — remote or Nashville, TN m
 
 **[fabric-portfolio](https://github.com/CarlWooldridge/fabric-portfolio)** — Running series of hands-on Microsoft Fabric projects built alongside DP-600 study. First up: [P1 — NYC Taxi](https://github.com/CarlWooldridge/fabric-portfolio/tree/main/P1-nyc-taxi), a 76.5M-row benchmark comparing three ingestion methods, isolating the real effect of compaction vs. V-Order vs. Z-Order, and mapping five distinct T-SQL surface-area gaps between Lakehouse and Warehouse.
 
+**[Job Search — an AI evaluation pipeline on Fabric](https://github.com/CarlWooldridge/fabric-portfolio/tree/main/job-search-fabric)** — A workflow I actually run daily, productionised: AI-scored job postings flowing through Dataflow Gen2 into a Fabric SQL Database, a Direct Lake semantic model, and a Power BI report I write back to from inside the report via Translytical Task Flows and a Python User Data Function. 1,066 evaluated postings. Includes a [post-mortem](https://carlwooldridge.github.io/fabric-portfolio/job-search-fabric/reference/writeback-incident-postmortem.html) on the routine `DROP` that erased the evidence it had ever happened, a scoring rubric calibrated by measured override rate rather than preference, and a DAX bug where the measure, the relationship, and the data each verified correct while the answer stayed wrong.
+
 ## Currently
 
 🎓 Studying for DP-600 (Microsoft Fabric Analytics Engineer)
