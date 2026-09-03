@@ -9,7 +9,7 @@ Open to Architect / Lead / Senior BI Manager roles — remote or Nashville, TN m
 **Languages:** SQL (T-SQL) · DAX · M (Power Query) · Python (learning)
 **Platforms:** Microsoft Fabric · Azure SQL · Databricks · Presto/Trino · SQL Server
 **BI & Modeling:** Power BI (semantic models, Direct Lake) · SSAS Tabular · Dimensional/Star Schema modeling · Data Governance
-**AI-assisted development:** Cursor, Claude Code, custom GPTs for standards enforcement and code review
+**AI-assisted development:** Cursor, Claude Code, custom GPTs for standards enforcement and code review — see [the evaluation pipeline](https://github.com/CarlWooldridge/fabric-portfolio/tree/main/job-search-fabric/ai-workflow) behind the Job Search project
 
 ## Background
 
