@@ -18,11 +18,11 @@ Open to Architect / Lead / Senior BI Manager roles — remote or Nashville, TN m
 - Architected Finance's migration from on-prem SQL Server to a cloud analytics stack (AWS S3, Databricks, Presto/Trino, Power BI) — AWS & Databricks certified for the effort
 - Built and led a Power BI Center of Excellence: ~10 governed semantic models, 100–200 reports, standards adopted across a 10-developer team
 - 12 years architecting and delivering Finance & Supply Chain BI — dimensional models, automated reconciliations, executive reporting
-- Built hands-on Fabric projects (Lakehouse, Direct Lake semantic models, Delta Lake optimization) as my DP-600 preparation, then passed the exam — see pinned repos
+- Built hands-on Fabric projects (Lakehouse, Direct Lake semantic models, Delta Lake optimization) alongside DP-600 study, then passed the exam — see pinned repos
 
 ## Featured projects
 
-**[fabric-portfolio](https://github.com/CarlWooldridge/fabric-portfolio)** — Running series of hands-on Microsoft Fabric projects, built as my DP-600 preparation (certified September 2026):
+**[fabric-portfolio](https://github.com/CarlWooldridge/fabric-portfolio)** — Running series of hands-on Microsoft Fabric projects, built alongside DP-600 study (certified September 2026):
 
 - **[P1 — NYC Taxi](https://github.com/CarlWooldridge/fabric-portfolio/tree/main/P1-nyc-taxi)** — A 76.5M-row benchmark comparing three ingestion methods, isolating the real effect of compaction vs. V-Order vs. Z-Order, and mapping five distinct T-SQL surface-area gaps between Lakehouse and Warehouse.
 - **[P2 — Olist: the DP-600 build](https://github.com/CarlWooldridge/fabric-portfolio/tree/main/P2-olist)** — My DP-600 preparation, built rather than read: 25 sessions mapped to the exam's skills outline, from ten security layers tested as real users to a medallion lakehouse, SCD2, and a Direct Lake semantic model with RLS/OLS, each step closed on a measured number. Two of the findings: a SQL view that silently cost ~600× by pushing a Direct Lake model into DirectQuery fallback (17 ms vs 10 s), and a deliberately bad model that came out 17% larger at the same query speed. Reference page: [Security in Fabric: ten layers](https://carlwooldridge.github.io/fabric-portfolio/P2-olist/reference/security-ten-layers.html).
