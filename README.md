@@ -2,7 +2,7 @@
 
 [![Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Analytics%20Engineer%20Associate%20%28DP--600%29-0078D4?logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/295B55E20B0A7B4?sharingId=BEADD08189466592)
 
-BI & Data Architecture leader with 20+ years modernizing enterprise analytics — 12 of them leading BI for Finance and Supply Chain organizations. I design governed dimensional and semantic models, lead platform migrations, and build the standards and Centers of Excellence that make BI sustainable at scale. **[Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/295B55E20B0A7B4?sharingId=BEADD08189466592)**, earned September 2026 after building the Fabric projects below. Now pursuing PL-300 (Power BI Data Analyst) and expanding into Python.
+BI & Data Architecture leader with 20+ years modernizing enterprise analytics — 12 of them leading BI for Finance and Supply Chain organizations. I design governed dimensional and semantic models, lead platform migrations, and build the standards and Centers of Excellence that make BI sustainable at scale. **[Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/295B55E20B0A7B4?sharingId=BEADD08189466592)**, earned September 2026 after building the Fabric projects below. Also [PL-300 certified](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/5FD44A25FAA01C91?sharingId=BEADD08189466592) (Power BI Data Analyst) and expanding into Python.
 
 Open to Architect / Lead / Senior BI Manager roles — remote or Nashville, TN metro.
 
@@ -10,7 +10,7 @@ Open to Architect / Lead / Senior BI Manager roles — remote or Nashville, TN m
 
 **Languages:** SQL (T-SQL) · DAX · M (Power Query) · Python (learning)\
 **Platforms:** Microsoft Fabric (DP-600 certified) · Azure SQL · Databricks · Presto/Trino · SQL Server\
-**BI & Modeling:** Power BI (semantic models, Direct Lake) · SSAS Tabular · Dimensional/Star Schema modeling · Data Governance\
+**BI & Modeling:** Power BI ([PL-300 certified](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/5FD44A25FAA01C91?sharingId=BEADD08189466592); semantic models, Direct Lake) · SSAS Tabular · Dimensional/Star Schema modeling · Data Governance\
 **AI-assisted development:** Cursor, Claude Code, custom GPTs for standards enforcement and code review — see [the evaluation pipeline](https://github.com/CarlWooldridge/fabric-portfolio/tree/main/job-search-fabric/ai-workflow) behind the Job Search project
 
 ## Background
@@ -31,6 +31,7 @@ Open to Architect / Lead / Senior BI Manager roles — remote or Nashville, TN m
 ## Currently
 
 🎓 **[Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/295B55E20B0A7B4?sharingId=BEADD08189466592)** — earned Sep 28, 2026\
-📘 Studying for PL-300 (Microsoft Power BI Data Analyst) and building up Python\
+🎓 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/CarlWooldridge-3442/5FD44A25FAA01C91?sharingId=BEADD08189466592) — earned Oct 5, 2026\
+🐍 Building up Python\
 🔍 Open to BI Architect / Analytics Engineering roles, Microsoft-stack, Finance BI a plus\
 📍 Nashville, TN metro or remote (US)
